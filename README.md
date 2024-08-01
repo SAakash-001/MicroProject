@@ -25,7 +25,6 @@ This project is a Student Enrollment Form for managing student data using JsonPo
 
 ## Illustrations
 ![Form Screenshot](![schoolform](https://github.com/user-attachments/assets/9aca8f3f-e146-4252-8f68-4d513d5b4350)
-)
 
 ## Scope of functionalities
 - **Save student record**: Save new student data to the database.
